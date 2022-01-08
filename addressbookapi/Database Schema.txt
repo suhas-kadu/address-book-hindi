@@ -1,0 +1,36 @@
+person
+{
+	name : {
+		first_name : {},
+		last_name : {}
+	},
+	email : {},
+	phone : {},
+	permenant_address : {
+		full_address : {},
+		city : {},
+		state : {},
+		country : {},
+		pincode : {},
+		},
+	residental_address : {
+		full_address : {},
+		city : {},
+		state : {},
+		country : {},
+		pincode : {},
+		},
+	last_updated : {
+		date : {},
+		},
+}
+
+	name,
+	email,
+	phone,
+	permenant address,
+	city,
+	state,
+	country,
+	pincode/zipcode,
+	residentaladdress
